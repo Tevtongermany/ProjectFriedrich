@@ -114,6 +114,10 @@
 		{
 			"Name": "CodeLiteSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "GitSourceControl",
+			"Enabled": false
 		}
 	]
 }
